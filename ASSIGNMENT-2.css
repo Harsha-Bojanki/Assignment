@@ -1,0 +1,42 @@
+h1{
+background-color:red;
+text-align:center;
+}
+h2{
+text-align:center;
+}
+dl{
+display:block;
+margin-top:1em;
+margin-bottom:1em;
+margin-left:0;
+margin-right:0;
+}
+dt{
+/**margin:30px 90px 90px 90px;**/
+    background-color: #eaf6f6;
+    padding:5px;
+    color:#66bfbf;
+    border-style: none;
+    border-radius: 10px; 
+}
+dd{
+text-align:center-left;
+}
+.bottom-container{
+background-color: rgb(207, 243, 250);
+color:#66bfbf;
+height:120px;
+padding-top: 4rem;
+text-align:center;
+}
+a{
+    color: #11999E;
+    margin:0 10px 0 10px;
+    text-decoration: none;
+}
+
+#course-name
+{
+    font-weight:bold;
+    }
